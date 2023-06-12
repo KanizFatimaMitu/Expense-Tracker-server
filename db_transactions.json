@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "name": "sohel",
+      "type": "expense",
+      "amount": 500,
+      "id": 2
+    },
+    {
+      "name": "friends party",
+      "type": "expense",
+      "amount": 2000,
+      "id": 3
+    },
+    {
+      "name": "sumona",
+      "type": "income",
+      "amount": 5000,
+      "id": 4
+    }
+  ]
+}
